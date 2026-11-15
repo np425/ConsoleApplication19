@@ -1,7 +1,8 @@
 #include <iostream>
+#include "logic.h"
 
 int main()
 {
-    std::cout << "Goodbye World!\n";
+	goToStore();
 }
 
